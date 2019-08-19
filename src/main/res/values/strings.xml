@@ -1,0 +1,26 @@
+<resources>
+    <string name="bluetooth_on_off">Вкл/Выкл Bluetooth</string>
+    <string name="app_name">TOBOT</string>
+    <string name="bluetooth_off">Bluetooth выключен</string>
+    <string name="start_search">Начать поиск</string>
+    <string name="bluetooth_not_supported">Bluetooth не поддерживается</string>
+    <string name="stop_search">Остановить поиск</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="led_red">Красный светодиод</string>
+    <string name="HZ_red">еще не придумал</string>
+    <string name="Text_Buton_One">№1</string>
+    <string name="D">№2</string>
+    <string name="E">№3</string>
+    <string name="F">№4</string>
+    <string name="G">№5</string>
+    <string name="H">№6</string>
+    <string name="J">№7</string>
+    <string name="K">№8</string>
+    <string name="L">№9</string>
+    <string name="dence">DENCE</string>
+    <string name="joystick">JOYSTICK</string>
+    <string name="button_bac">Programing</string>
+    <string name="btn_over">назад</string>
+    <string name="connect">Соединение...</string>
+    <string name="plise_weit">Подождите,пожалуйста...</string>
+</resources>
